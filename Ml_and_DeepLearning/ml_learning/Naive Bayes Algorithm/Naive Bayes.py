@@ -19,7 +19,7 @@ import matplotlib.pyplot as plt
 import numpy as np
 
 # %%
-data = pd.read_csv("data.csv")
+data = pd.read_csv(r"C:\Users\ekber\OneDrive\Masaüstü\Code_Archive\Ml_and_DeepLearning\ml_learning\Naive Bayes Algorithm\data.csv")
 
 # %%
 data.drop(["id", "Unnamed: 32"], axis=1, inplace=True)
