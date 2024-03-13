@@ -1,10 +1,10 @@
 def binarySearch(arr, l, h, x):
     while l <= h:
-        mid = l + (h - l) // 2
+        mid = l + (h - l) // 2  # 1, 2, 3, 4, 5, 6, 7, 8, 9, 10
 
         if arr[mid] == x:
             return mid
-        elif arr[mid] > x:
+        elif arr[mid] < x:
             l = mid + 1
         else:
             h = mid - 1

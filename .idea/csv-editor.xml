@@ -3,6 +3,13 @@
   <component name="CsvFileAttributes">
     <option name="attributeMap">
       <map>
+        <entry key="\Ml_and_DeepLearning\deep_learning\nlp_basisc_tf\1\Logger.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
         <entry key="\Ml_and_DeepLearning\deep_learning\nlp_basisc_tf\nlp_2\harry_potter_reviews.csv">
           <value>
             <Attribute>
@@ -10,7 +17,133 @@
             </Attribute>
           </value>
         </entry>
+        <entry key="\Ml_and_DeepLearning\ml_learning\Confusion Matrix\data.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\Ml_and_DeepLearning\ml_learning\Decision Tree Classification\data.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\Ml_and_DeepLearning\ml_learning\Decision Tree Regression\decision+tree+regression+dataset.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value=";" />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\Ml_and_DeepLearning\ml_learning\K-NN Algorithm\data.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\Ml_and_DeepLearning\ml_learning\Kaggle\heart_failure_data\heart.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\Ml_and_DeepLearning\ml_learning\Kaggle\pd_data\fatal-police-shootings-agencies.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\Ml_and_DeepLearning\ml_learning\Kaggle\penguins_data\final_penguins_df.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\Ml_and_DeepLearning\ml_learning\Kaggle\penguins_data\penguins_lter.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\Ml_and_DeepLearning\ml_learning\Kaggle\penguins_data\penguins_size.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\Ml_and_DeepLearning\ml_learning\Linear Regression\linear_regression_dataset.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value=";" />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\Ml_and_DeepLearning\ml_learning\Logistic Regression Classification\data.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\Ml_and_DeepLearning\ml_learning\Multiple Linear Regression\multiple_linear_regression_dataset.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value=";" />
+            </Attribute>
+          </value>
+        </entry>
         <entry key="\Ml_and_DeepLearning\ml_learning\Naive Bayes Algorithm\data.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\Ml_and_DeepLearning\ml_learning\R-Square with Linear Regression\linear_regression_dataset.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value=";" />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\Ml_and_DeepLearning\ml_learning\R-Square with Random Forest\random+forest+regression+dataset.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value=";" />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\Ml_and_DeepLearning\ml_learning\Random Forest Classification\data.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\Ml_and_DeepLearning\ml_learning\Random Forest Regression\random+forest+regression+dataset.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value=";" />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\Ml_and_DeepLearning\ml_learning\Support Vector Machine\data.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\Ml_and_DeepLearning\ml_learning\data.csv">
           <value>
             <Attribute>
               <option name="separator" value="," />

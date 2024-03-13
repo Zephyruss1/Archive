@@ -9,12 +9,6 @@ def selectionSort(arr):
         arr[step], arr[min_number] = arr[min_number], arr[step]
 
 
-
-
-
-
-
-
 if __name__ == "__main__":
     data = [-2, 45, 0, 11, -9]
     size = len(data)
