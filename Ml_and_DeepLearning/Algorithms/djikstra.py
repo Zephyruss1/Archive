@@ -1,5 +1,6 @@
 import heapq
 
+
 def djikstra(graph, start):
     distances = {vertex: float('infinity') for vertex in graph}
     distances[start] = 0
