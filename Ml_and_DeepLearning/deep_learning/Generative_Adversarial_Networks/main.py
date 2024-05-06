@@ -9,12 +9,13 @@ from labml_helpers.module import Module
 class DiscriminatorLogitsLoss(Module):
     def __init__(self, smoothing: float = 0.2):
         super().__init__()
+        # BCEWithLogitsLoss(): Is mixing Binary Cross Entropy and softmax.
         self.loss_true = nn.BCEWithLogitsLoss()
         self.loss_false = nn.BCEWithLogitsLoss()
         self.smoothing = smoothing
 
         self.register_buffer('labels_true', _create_labels(256, 1.0 - smoothing, 1.0), False)
-        self.register_buffer('labels_false', _create_labels(256, 0.0 - smoothing), False)
+        self.register_buffer('labels_false', _create_labels(256, 0.0, smoothing), False)
 
     def forward(self, logits_true: torch.Tensor, logits_false: torch.Tensor):
         if len(logits_true) > len(self.labels_true):
